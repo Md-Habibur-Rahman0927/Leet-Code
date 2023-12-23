@@ -1562,3 +1562,9 @@
 <hr>
 </div>
 
+<div>
+<h2><a href="https://leetcode.com/problems/movie-rating/">(257) 1341. Movie Rating</a></h2>
+<h3>Medium</h3>
+<hr>
+</div>
+
