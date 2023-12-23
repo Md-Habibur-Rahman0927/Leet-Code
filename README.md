@@ -1514,3 +1514,9 @@
 <hr>
 </div>
 
+<div>
+<h2><a href="https://leetcode.com/problems/product-sales-analysis-iii/">(249) 1070. Product Sales Analysis III</a></h2>
+<h3>Easy</h3>
+<hr>
+</div>
+
