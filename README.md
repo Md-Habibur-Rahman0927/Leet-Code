@@ -1568,3 +1568,9 @@
 <hr>
 </div>
 
+<div>
+<h2><a href="https://leetcode.com/problems/restaurant-growth/">(258) 1321. Restaurant Growth</a></h2>
+<h3>Medium</h3>
+<hr>
+</div>
+
