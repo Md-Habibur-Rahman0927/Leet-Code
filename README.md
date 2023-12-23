@@ -1520,3 +1520,9 @@
 <hr>
 </div>
 
+<div>
+<h2><a href="https://leetcode.com/problems/find-followers-count/">(250) 1729. Find Followers Count</a></h2>
+<h3>Easy</h3>
+<hr>
+</div>
+
