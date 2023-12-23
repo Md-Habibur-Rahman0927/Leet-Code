@@ -1490,3 +1490,9 @@
 <hr>
 </div>
 
+<div>
+<h2><a href="https://leetcode.com/problems/maximum-score-after-splitting-a-string/">(245) 1422. Maximum Score After Splitting a String</a></h2>
+<h3>Easy</h3>
+<hr>
+</div>
+
