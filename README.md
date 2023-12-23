@@ -1502,3 +1502,9 @@
 <hr>
 </div>
 
+<div>
+<h2><a href="https://leetcode.com/problems/can-place-flowers/">(247) 605. Can Place Flowers</a></h2>
+<h3>Easy</h3>
+<hr>
+</div>
+
