@@ -1580,3 +1580,9 @@
 <hr>
 </div>
 
+<div>
+<h2><a href="https://leetcode.com/problems/fix-names-in-a-table/">(260) 1667. Fix Names in a Table</a></h2>
+<h3>Easy</h3>
+<hr>
+</div>
+
