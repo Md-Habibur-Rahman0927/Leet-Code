@@ -1610,3 +1610,9 @@
 <hr>
 </div>
 
+<div>
+<h2><a href="https://leetcode.com/problems/minimum-changes-to-make-alternating-binary-string/">(265) 1758. Minimum Changes To Make Alternating Binary String</a></h2>
+<h3>Easy</h3>
+<hr>
+</div>
+
