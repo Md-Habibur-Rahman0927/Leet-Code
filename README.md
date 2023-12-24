@@ -1586,3 +1586,9 @@
 <hr>
 </div>
 
+<div>
+<h2><a href="https://leetcode.com/problems/patients-with-a-condition/">(261) 1527. Patients With a Condition</a></h2>
+<h3>Easy</h3>
+<hr>
+</div>
+
